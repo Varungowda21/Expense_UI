@@ -1,0 +1,6 @@
+<button onClick={()=>{
+              handleCategoryRemove(ele)
+            }}>  remove</button>
+            onClick={()=>{
+                    handleExpenseRemove(ele._id)
+                  }}
